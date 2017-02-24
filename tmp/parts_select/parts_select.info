@@ -1,0 +1,4 @@
+name = Parts Selection
+description = Select list of parts from mysql db view.
+package = gda10672
+core = 7.x

@@ -1,0 +1,20 @@
+<?php
+/**
+* @file
+* A description of what your module does.
+*/
+
+function hook_block_info() {
+    // This example comes from node.module.
+    $blocks['syndicate'] = array(
+        'info' => t('Syndicate'),
+        'cache' => DRUPAL_NO_CACHE
+    );
+
+    $blocks['recent'] = array(
+        'info' => t('Recent content'),
+        // DRUPAL_CACHE_PER_ROLE will be assumed.
+    );
+
+    return $blocks;
+}

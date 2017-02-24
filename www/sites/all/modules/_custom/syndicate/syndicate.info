@@ -1,0 +1,4 @@
+name = Syndicate
+description = A description of what your module does.
+package = Example
+core = 7.x
