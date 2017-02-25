@@ -1,0 +1,5 @@
+name = My News
+description = This module outputs our news content.
+package = Demien's custom modules
+core = 7.x
+version = 7.x-0.1
