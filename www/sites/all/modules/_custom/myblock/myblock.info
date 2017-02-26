@@ -1,0 +1,4 @@
+name = Myblock
+description = A description of what your module does.
+package = gda_tests
+core = 7.x

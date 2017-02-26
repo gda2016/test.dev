@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/www/sites/all/modules/_custom/myblock/.idea/myblock.iml" filepath="$PROJECT_DIR$/www/sites/all/modules/_custom/myblock/.idea/myblock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test.dev.iml" filepath="$PROJECT_DIR$/.idea/test.dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../php/w3php/.idea/w3php.iml" filepath="$PROJECT_DIR$/../../php/w3php/.idea/w3php.iml" />
     </modules>
   </component>
 </project>
