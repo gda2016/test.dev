@@ -16,5 +16,6 @@
     </orderEntry>
     <orderEntry type="module" module-name="w3php" />
     <orderEntry type="module" module-name="myblock" />
+    <orderEntry type="module" module-name="first" />
   </component>
 </module>

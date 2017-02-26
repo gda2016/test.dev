@@ -16,8 +16,16 @@ function myblock_block_info() {
     return $blocks;
 }
 
+
+/**
+ * Implement db query
+ */
+
+
+
 /**
  * Implements hook_block_view().
+ * Check output
  */
 function myblock_block_view($delta = '') {
     $block = array();
